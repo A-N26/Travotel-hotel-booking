@@ -43,7 +43,7 @@ Project 3 (final Project): The app is a `hotel bookings` app with variety of fea
 
 ## _Usage🖥_
 
-- Once the installation step are done, the browser page should automatically load up locally. If not, type `http://localhost:3000/` in browser to load and view the app. or simple use the deployed link mentioned in the links section below.
+- Once the installation step are done, the browser page should automatically load up locally. If not, type `http://localhost:3000/` in browser to load and view the app. or simple use the deployed link mentioned in the links section below. Or click the included deployed link (in links section) to veiw the deployed app.
 
 Some images representatio
 

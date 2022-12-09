@@ -64,7 +64,7 @@ Some images representatio
 <br/>
 https://bilingualhotelbooking.herokuapp.com
 
-
+</details>
 
 ## _Credits💳_
 

@@ -56,9 +56,11 @@ Some images representatio
 
 ## _Links📎_
 
-Click for Github repo and deployed links: 
+<details>
 
-https://github.com/chichiulam2022/hotel_booking
+<summary>Click for Github repo and deployed links:</summary>
+
+[https://github.com/chichiulam2022/hotel_booking](https://github.com/A-N26/Travotel-hotel-booking)
 <br/>
 https://bilingualhotelbooking.herokuapp.com
 
